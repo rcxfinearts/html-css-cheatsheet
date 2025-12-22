@@ -1,0 +1,50 @@
+.columnHeader {
+    font-family: sans-serif;
+    size: 16px;
+    text-align: center;
+}
+
+th, td {
+	border: 2px solid black;
+	border-collapse: collapse;
+	padding: 15px;
+	vertical-align: top;
+	text-align: left;
+}
+
+h1 {
+    text-align: center;
+    font-family:sans-serif;
+}
+
+caption {
+    font-family: sans-serif;
+    size: 20px;
+}
+
+p {
+    text-align: center;
+    font-family: sans-serif;
+    color: blue;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: 2px solid black;
+}
+
+.highlighText {
+    color:red;
+    font-style: bold;
+}
+
+}	
+@media (min-resolution: 192dpi) {
+  * {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
