@@ -21,6 +21,7 @@ th, td {
 	vertical-align: top;
 	text-align: left;
     font-size: .75rem;
+    overflow-wrap: break-word;
 }
 
 h1 {
@@ -43,7 +44,6 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 100%;
     border: 2px solid black;
 }
 
