@@ -21,7 +21,7 @@ th, td {
 	vertical-align: top;
 	text-align: left;
     font-size: .75rem;
-    overflow-wrap: break-word;
+    word-wrap: break-word;
 }
 
 h1 {
@@ -52,7 +52,7 @@ img {
     font-style: bold;
 }
 
-}	
+	
 @media (min-resolution: 192dpi) {
   * {
     -webkit-font-smoothing: antialiased;
