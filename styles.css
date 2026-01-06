@@ -20,6 +20,7 @@ th, td {
 	padding: 15px;
 	vertical-align: top;
 	text-align: left;
+    font-size: .75rem;
 }
 
 h1 {
@@ -42,7 +43,7 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 100%;
     border: 2px solid black;
 }
 
