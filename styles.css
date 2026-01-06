@@ -4,6 +4,10 @@
     text-align: center;
 }
 
+caption {
+    text-align: center;
+}
+
 th, td {
 	border: 2px solid black;
 	border-collapse: collapse;
